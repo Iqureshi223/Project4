@@ -73,4 +73,5 @@ class Graph<Type> {
     public Type getValue(int index) {
         return values[index];
     }
+    
 }
